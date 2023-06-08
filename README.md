@@ -6,7 +6,7 @@
 + JUnit5 (Aggregator) -> https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter/5.10.0-M1
 + Mockito Core -> https://mvnrepository.com/artifact/org.mockito/mockito-core/5.3.1
 
-# ____________________________________________________________________________________
+# _______________________________________________________________________________
 # Project name
 
 ## Description
