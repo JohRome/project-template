@@ -47,6 +47,7 @@ List your collaborators, if any, with links to their GitHub profiles.
 * [member 1](https://github.com/person1)
 * [member 2](https://github.com/person1)
 
+## Dependencies
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 * [junit jupiter 5](https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter/5.7.0)
 
